@@ -1,0 +1,54 @@
+* {margin:0}
+ 
+body {
+            font-family:arial,segoe ui;   
+}
+ 
+.wrap {
+            width:1000px;
+            margin:0 auto;          
+}
+ 
+            
+ 
+.header {
+            width:auto;
+            background:#09C;
+            padding:20px;
+            color:#fff;
+}          
+ 
+  
+ 
+.main {
+            width:100%;
+            background:#6F9;
+}
+ 
+  
+ 
+.content {
+            float:left;
+            width:66%;
+            background:#FF9;
+            padding:2%; 
+            min-height:400px;
+}
+ 
+.sidebar {
+            float:right;
+            width:26%;
+            background:#6F9;
+            padding:2%;
+ 
+}          
+ 
+.clear {clear:both}
+ 
+.footer {
+            width:auto;
+            padding:5px 10px;
+            background:#333;
+            color:#fff;
+ 
+}
